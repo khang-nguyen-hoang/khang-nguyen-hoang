@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**khang-nguyen-hoang/khang-nguyen-hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- Graduated with honors from RMIT, ranking among the top 3 students in the Bachelor of Software Engineering (Honours) program.
+- Currently pursuing a Master of AI program at RMIT.
 
-Here are some ideas to get you started:
+## 👨‍💼 Professional Experience
+- Over 2 years of experience as a Data Scientist, specializing in both tabular and unstructured data.
+- Proficient in Python, SQL, No-SQL, scikit-learn, pandas, and TensorFlow.
+- Worked extensively with big data and familiar with cloud services, particularly Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Cloud Expertise
+- Proficient in Azure services, leveraging cloud capabilities for data science projects.
+- Skilled in building and deploying chatbots using Azure services and the Langchain framework.
+
+## 🤖 Current Role
+- Currently employed as a Data Scientist, passionately working with data to derive valuable insights.
+- Build Chatbot with Cloud service (Azure) and Langchain framework.
+
+## 📊 Data Enthusiast
+- Love working with data and extracting meaningful patterns.
+- Eager to explore new opportunities and challenges in the field of data science.
+
+## 📬 Connect with Me
+- Open to collaborations, discussions, and networking opportunities.
+- Feel free to reach out—I'm always interested in connecting with fellow professionals and enthusiasts.
+- My LinkedIn: [Khang](https://www.linkedin.com/in/hoangkhangn/)
